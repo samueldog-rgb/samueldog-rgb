@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Samuel Alves Pinho, tenho 21 anos e sou natural de São Paulo. Concluir curso técnico em Desenvolvimento de Sistemas no senai. instagram, com o perfil chamado "[xo.Alves](https://www.instagram.com/purailusaors)".
+Me chamo Samuel Alves Pinho, tenho 21 anos e sou do estado de São Paulo. Concluir curso técnico em Desenvolvimento de Sistemas no senai. instagram, com o perfil chamado "[xo.Alves](https://www.instagram.com/purailusaors)".
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
